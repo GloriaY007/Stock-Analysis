@@ -5,8 +5,6 @@ Using VBA to write macros for stock analysis
 The purpose of this project is for Steve to help his parents analyze the stock market, more specifically the performance of the DAQO (Ticker:DQ) stock, for all the years of available data. The aim is to make sure that the final worksheet expand the dataset to include the entire stock market over the last few years, produces data using a few buttons for the user, and run in an optimal fashion using refactoring.
 
 ## Results
-The analysis is well described with screenshots and code (4 pt).
-
 Based on the Macro Code that were built in the back ground (in a previous exercice), I was able to run a code in **0.63 seconds**. The macro provided us with the following information for the year 2017:
 - Most stocks performed well during that year. 
 - The **DQ** stock performed extremely well, out of the 12 stocks we observed, with **199.45%** of return, followed by the **SEDG** stock with **184.47%** return. 
