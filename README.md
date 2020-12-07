@@ -57,7 +57,7 @@ The same Macro Code that were built in the back ground (in a previous exercice),
   The other portion of this analysis of stocks for Steve parents, was to automate the worksheet in a way that for any year and each stock (ticker), someone was able to run the macro without much effort or changes and in the least amount of time.
 
 ## Summary
-All source documents for this analysis can be found in [Git Hub](https://github.com/GloriaY007/Stock-Analysis.git)
+All source documents for this analysis can be found in [Git Hub](https://github.com/GloriaY007/Stock-Analysis)
 
 Due to the below syntax error, this particular specification could not be run.
 
